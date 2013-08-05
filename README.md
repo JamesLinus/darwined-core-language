@@ -1,4 +1,4 @@
-darwined-core-expressions
+darwined-core-language
 =========================
 
-Expressions Service for DarwinEd
+Language Service for DarwinEd
